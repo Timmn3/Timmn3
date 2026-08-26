@@ -36,7 +36,7 @@ CI с прогоном тестов на отдельной базе, нагру
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript` `Docker` `Prometheus` `Grafana`
 
-#### [Система маскированных звонков](https://github.com/Timmn3/call_masking_bot) - интеграция CRM и телефонии
+#### [Система маскированных звонков](https://github.com/Timmn3/crm-telephony-integration) - интеграция CRM и телефонии
 
 Заказная разработка по техническому заданию: связывает CRM и виртуальную АТС так, что
 исполнитель инициирует звонок клиенту, не получая его номер. Ролевая модель, конечный
