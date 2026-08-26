@@ -28,32 +28,26 @@
 ---
 
 ## Избранные проекты
-
 #### [Neuron Agent](https://github.com/Timmn3/neuron-agent)
 Мультимодельный AI-ассистент: текст, генерация изображений и видео, синтез речи в одном
 интерфейсе. Подписки с автопродлением, шесть способов оплаты, приём вебхуков и отложенные
 уведомления вынесены в отдельные сервисы. Работающий продукт - [@NeuronAgentBot](https://t.me/NeuronAgentBot).
 `Python` · `aiogram` · `FastAPI` · `PostgreSQL` · `OpenAI API` · `Vertex AI`
 
-#### [AI Media Platform](https://github.com/Timmn3/ai-media-platform)
-Единый сервис для работы с несколькими AI-моделями генерации контента: фоновая обработка
-задач, биллинг, веб-интерфейс под каждую модель, административная панель.
-`Django` · `Celery` · `PostgreSQL` · `Redis` · `Docker`
-
 #### [CRM & Telephony Integration](https://github.com/Timmn3/crm-telephony-integration)
 Заказная система: связывает CRM и виртуальную АТС в единый сценарий работы менеджера.
 Данные не переносятся между системами вручную, номер клиента не раскрывается исполнителю.
 `Python` · `FastAPI` · `amoCRM API` · `Mango Office API` · `PostgreSQL` · `Docker`
 
+#### [AI Media Platform](https://github.com/Timmn3/ai-media-platform)
+Единый сервис для работы с несколькими AI-моделями генерации контента: фоновая обработка
+задач, биллинг, веб-интерфейс под каждую модель, административная панель.
+`Django` · `Celery` · `PostgreSQL` · `Redis` · `Docker`
+
 #### [Avito Monitoring Service](https://github.com/Timmn3/avito-monitoring-service)
 Сервис отслеживания изменений данных: backend API, веб-интерфейс, автоматическая
 обработка событий, метрики и дашборды, CI с тестами на отдельной базе.
 `FastAPI` · `SQLAlchemy` · `React` · `TypeScript` · `Prometheus` · `Grafana` · `Docker`
-
-#### [CityCatalog](https://github.com/Timmn3/CityCatalog)
-Веб-приложение с backend API и frontend: структура данных, REST API, миграции,
-поиск и отображение организаций на карте.
-`FastAPI` · `SQLAlchemy` · `Alembic` · `React` · `TypeScript` · `Docker`
 
 #### [EmailFast](https://github.com/Timmn3/EmailFast)
 Коммерческий сервис в поддержке 22 месяца: биллинг, интеграции с внешними провайдерами,
@@ -61,6 +55,11 @@
 `Python` · `asyncio` · `PostgreSQL` · `Redis` · `Celery`
 
 ---
+
+#### [CityCatalog](https://github.com/Timmn3/CityCatalog)
+Веб-приложение с backend API и frontend: структура данных, REST API, миграции,
+поиск и отображение организаций на карте.
+`FastAPI` · `SQLAlchemy` · `Alembic` · `React` · `TypeScript` · `Docker`
 
 > Помимо витрины: [Distributed Parser Agent](https://github.com/Timmn3/parser_agent) -
 > независимые агенты обрабатывают задачи через RabbitMQ, с контролем ресурсов и
