@@ -28,7 +28,7 @@
 
 ### Избранные проекты
 
-#### [Avito Duff](https://github.com/Timmn3/Avito_Duff) - SaaS-сервис мониторинга и обработки данных
+#### [Avito Monitoring Service](https://github.com/Timmn3/avito-monitoring-service) - SaaS-платформа отслеживания изменений во внешних источниках
 
 Система отслеживания изменений во внешнем источнике с backend API, frontend-интерфейсом
 и автоматизированной обработкой событий. Фоновый цикл обработки, метрики и дашборды,
@@ -53,7 +53,7 @@ CI с прогоном тестов на отдельной базе, нагру
 
 `Python` `asyncio` `PostgreSQL` `Redis` `Celery` `Docker`
 
-#### [NanoBanana](https://github.com/Timmn3/nanobanana) - платформа AI-сервисов
+#### [AI Media Platform](https://github.com/Timmn3/ai-media-platform) - единый backend для генеративных моделей
 
 Работа с несколькими генеративными моделями через единый backend и веб-интерфейс.
 Очередь длительных задач, слой провайдеров под разные модели, биллинг, управление
